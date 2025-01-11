@@ -1,1 +1,4 @@
 This is a practice Git workflow project
+Eat
+Sleep
+Repeat
